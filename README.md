@@ -1,7 +1,7 @@
 # ST7735
 
 Library for ST7735 <br/><br/>
-<img align="left" width="500" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/001.png">
+<img align="left" width="650" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/001.png">
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 # Atmega32<br />
 
@@ -11,6 +11,6 @@ PD6 --> RS (RESET)<br />
 PD5 --> CS (CHIP ENABLE)<br />
 PD4 --> DC (DATA-COMMAND)<br />
 
-<img align="left" width="400" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/00.png"><br />
+<img align="left" width="650" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/00.png"><br />
 
 
