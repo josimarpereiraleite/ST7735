@@ -13,3 +13,4 @@ PD4 --> DC (DATA-COMMAND)<br />
 
 <img align="left" width="400" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/00.png"><br />
 
+
