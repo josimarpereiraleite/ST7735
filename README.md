@@ -1,6 +1,6 @@
 # ST7735
 
-Library for ST7735 <br/>
+Library for ST7735 <br/><br/>
 <img align="left" width="400" height="400" src="https://github.com/josimarpereiraleite/ST7735/blob/main/Images/st7735.png">
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 # Atmega32<br />
